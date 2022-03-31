@@ -1,0 +1,3 @@
+/home/akm/cpp/3.29/student/build/CMakeFiles/rebuild_cache.dir
+/home/akm/cpp/3.29/student/build/CMakeFiles/testStudent.dir
+/home/akm/cpp/3.29/student/build/CMakeFiles/edit_cache.dir
